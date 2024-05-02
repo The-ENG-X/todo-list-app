@@ -1,0 +1,26 @@
+.TodoList {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-container input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-list li {
+  margin-bottom: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
